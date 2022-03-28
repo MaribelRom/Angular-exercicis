@@ -74,7 +74,7 @@ header {
     color: rgb(180, 108, 81);
     font-size: 20px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
